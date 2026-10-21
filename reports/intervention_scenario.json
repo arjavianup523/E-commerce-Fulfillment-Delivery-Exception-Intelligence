@@ -1,0 +1,12 @@
+{
+  "target_carrier": "Carrier_3",
+  "assumed_relative_reduction": 0.2,
+  "delivered_orders": 4712,
+  "late_orders_before": 907,
+  "target_segment_late_orders": 320,
+  "assumed_late_orders_prevented": 64,
+  "late_orders_after_scenario": 843,
+  "late_rate_before": 0.19248726655348047,
+  "late_rate_after_scenario": 0.1789049235993209,
+  "interpretation": "Illustrative scenario under an explicit assumption; not causal evidence or realized savings."
+}

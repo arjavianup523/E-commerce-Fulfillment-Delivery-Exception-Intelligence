@@ -1,0 +1,10 @@
+{
+  "row_count": 5000,
+  "duplicate_order_ids": 0,
+  "missing_order_ids": 0,
+  "negative_order_values": 0,
+  "negative_shipping_costs": 0,
+  "delivered_without_actual_date": 0,
+  "actual_before_order": 0,
+  "passed": true
+}

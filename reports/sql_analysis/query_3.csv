@@ -1,0 +1,5 @@
+fulfillment_center,delivered_orders,late_orders,late_rate_pct,avg_delay_days
+FC_D,919,235,25.57,0.44
+FC_C,1115,209,18.74,0.33
+FC_B,1270,222,17.48,0.32
+FC_A,1408,241,17.12,0.29

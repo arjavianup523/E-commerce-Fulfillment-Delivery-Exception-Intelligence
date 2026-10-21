@@ -1,0 +1,18 @@
+{
+    "analysis_type": "hypothetical_scenario",
+    "dataset": "synthetic_e-commerce_fulfillment_data",
+    "denominator": "delivered_orders_only",
+    "delivered_orders": 4712,
+    "baseline_late_orders": 907,
+    "baseline_late_rate_pct": 19.25,
+    "target_carrier": "Carrier_3",
+    "target_carrier_delivered_orders": 1138,
+    "target_carrier_baseline_late_orders": 320,
+    "target_carrier_baseline_late_rate_pct": 28.12,
+    "assumed_relative_reduction_pct": 10.0,
+    "estimated_fewer_late_orders": 32,
+    "estimated_total_late_orders_after_scenario": 875,
+    "estimated_overall_late_rate_after_scenario_pct": 18.57,
+    "estimated_overall_rate_improvement_percentage_points": 0.68,
+    "interpretation": "Illustrative scenario only. It assumes the selected carrier's late-order count falls by the stated relative percentage. It does not establish causality, guarantee improvement, or estimate financial savings."
+}

@@ -1,0 +1,5 @@
+carrier,delivered_orders,late_orders,average_shipping_cost,average_delay_days,late_rate,ci_lower,ci_upper
+Carrier_3,1138,320,96.01,0.51,28.12,25.58,30.8
+Carrier_1,1451,245,95.36,0.31,16.88,15.05,18.9
+Carrier_4,820,138,96.08,0.26,16.83,14.42,19.54
+Carrier_2,1303,204,95.09,0.27,15.66,13.78,17.73
