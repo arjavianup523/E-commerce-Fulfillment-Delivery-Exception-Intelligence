@@ -8,7 +8,7 @@ Late deliveries can affect customer experience and operational performance. Busi
 
 This project simulates an e-commerce fulfillment operation and builds a reproducible analysis pipeline to investigate those questions.
 
-**Data disclaimer:** All order data is synthetic. This project does not use Amazon internal data and does not measure actual Amazon operational performance.
+**Data disclaimer:** All order data is synthetic.
 
 ## Business Questions
 
